@@ -296,7 +296,6 @@ chore: maintenance tasks
 ## 📞 **Support & Contact**
 
 - **Email**: vikasgup074@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/your-username/dental-center-management/issues)
 - **Documentation**: This README file
 
 ---
