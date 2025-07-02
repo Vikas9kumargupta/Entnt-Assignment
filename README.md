@@ -10,8 +10,6 @@
 
 *A comprehensive dental practice management solution built for ENTNT*
 
-[🚀 Live Demo](#-live-demo) • [📖 Documentation](#-table-of-contents) • [🛠️ Installation](#-installation) • [👥 Demo Accounts](#-demo-accounts)
-
 </div>
 
 ---
