@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useData } from '../../context/DataContext';
 import { X, Save, Calendar, Upload, Trash2 } from 'lucide-react';
-import { Incident, FileAttachment } from '../../types';
+import { FileAttachment } from '../../types';
 
 interface AppointmentFormProps {
   incidentId?: string | null;

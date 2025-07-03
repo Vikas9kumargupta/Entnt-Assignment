@@ -35,7 +35,7 @@ const initialPatients: Patient[] = [
     dob: "1985-08-22",
     contact: "2345678901",
     healthInfo: "Allergic to penicillin, diabetes type 2",
-    email: "jane@entnt.in",
+    email: "jane@gmail.com",
     address: "456 Oak Ave, Another City, ST 67890",
     emergencyContact: "John Smith - 1234567890",
     createdAt: "2024-02-10T14:30:00.000Z",
@@ -47,7 +47,7 @@ const initialPatients: Patient[] = [
     dob: "1992-03-15",
     contact: "3456789012",
     healthInfo: "No known allergies, anxiety about dental procedures",
-    email: "mike@entnt.in",
+    email: "mike@gmail.com",
     address: "789 Pine Rd, Somewhere, ST 13579",
     emergencyContact: "Lisa Johnson - 2468135790",
     createdAt: "2024-03-05T09:15:00.000Z",
@@ -55,11 +55,11 @@ const initialPatients: Patient[] = [
   },
   {
     id: "p4",
-    name: "Sarah Wilson",
+    name: "Sarah Joseph",
     dob: "1988-11-30",
     contact: "4567890123",
     healthInfo: "Allergic to latex, high blood pressure medication",
-    email: "sarah@entnt.in",
+    email: "sarah@gmail.com",
     address: "321 Elm St, Elsewhere, ST 24680",
     emergencyContact: "Tom Wilson - 3579246810",
     createdAt: "2024-04-12T16:45:00.000Z",
@@ -71,7 +71,7 @@ const initialPatients: Patient[] = [
     dob: "1995-07-08",
     contact: "5678901234",
     healthInfo: "No allergies, previous orthodontic treatment",
-    email: "david@entnt.in",
+    email: "david@gmail.com",
     address: "654 Maple Ave, Nowhere, ST 97531",
     emergencyContact: "Mary Brown - 4681357902",
     createdAt: "2024-05-20T11:20:00.000Z",
@@ -83,7 +83,7 @@ const initialPatients: Patient[] = [
     dob: "1983-12-03",
     contact: "6789012345",
     healthInfo: "Allergic to ibuprofen, pregnant (2nd trimester)",
-    email: "lisa@entnt.in",
+    email: "lisa@gmail.com",
     address: "987 Cedar Ln, Anywhere, ST 86420",
     emergencyContact: "Mark Davis - 5792468013",
     createdAt: "2024-06-08T13:10:00.000Z",
@@ -95,7 +95,7 @@ const initialPatients: Patient[] = [
     dob: "1978-09-25",
     contact: "7890123456",
     healthInfo: "Heart condition, takes blood thinners, no known allergies",
-    email: "robert@entnt.in",
+    email: "robert@gmail.com",
     address: "147 Birch St, Everywhere, ST 75319",
     emergencyContact: "Susan Miller - 6803579124",
     createdAt: "2024-07-15T08:30:00.000Z",
@@ -104,7 +104,7 @@ const initialPatients: Patient[] = [
 ];
 
 const initialIncidents: Incident[] = [
-  // John Doe's appointments
+  // Vikas Gupta's appointments
   {
     id: "i1",
     patientId: "p1",
@@ -192,7 +192,7 @@ const initialIncidents: Incident[] = [
     updatedAt: "2024-12-10T11:45:00.000Z"
   },
   
-  // Sarah Wilson's appointments
+  // Sarah Joseph's appointments
   {
     id: "i7",
     patientId: "p4",
