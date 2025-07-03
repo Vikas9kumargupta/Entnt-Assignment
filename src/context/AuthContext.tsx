@@ -22,14 +22,14 @@ const initialUsers: User[] = [
   { 
     id: "8", 
     role: "Admin", 
-    email: "dr.rahul@gmail.com", 
+    email: "dr.rahul@entnt.in", 
     password: "dental123",
     name: "Dr. Rahul Gupta"
   },
   { 
     id: "9", 
     role: "Admin", 
-    email: "asifnaqvi64@gmail.com",
+    email: "asifnaqvi64@entnt.in",
     password: "dental123",
     name: "Dr. Asif Naqvi"
   },
@@ -38,7 +38,7 @@ const initialUsers: User[] = [
   { 
     id: "2", 
     role: "Patient", 
-    email: "vikasgup074@gmail.com", 
+    email: "vikasgup074@entnt.in", 
     password: "patient123", 
     patientId: "p1",
     name: "Vikas Gupta"
@@ -46,7 +46,7 @@ const initialUsers: User[] = [
   { 
     id: "3", 
     role: "Patient", 
-    email: "jane@gmail.com", 
+    email: "jane@entnt.in", 
     password: "patient123", 
     patientId: "p2",
     name: "Jane Smith"
@@ -54,7 +54,7 @@ const initialUsers: User[] = [
   { 
     id: "4", 
     role: "Patient", 
-    email: "mike@gmail.com", 
+    email: "mike@entnt.in", 
     password: "patient123", 
     patientId: "p3",
     name: "Mike Johnson"
@@ -62,7 +62,7 @@ const initialUsers: User[] = [
   { 
     id: "5", 
     role: "Patient", 
-    email: "sarah@gmail.com", 
+    email: "sarah@entnt.in", 
     password: "patient123", 
     patientId: "p4",
     name: "Sarah Joseph"
@@ -70,7 +70,7 @@ const initialUsers: User[] = [
   { 
     id: "6", 
     role: "Patient", 
-    email: "david@gmail.com", 
+    email: "david@entnt.in", 
     password: "patient123", 
     patientId: "p5",
     name: "David Brown"
@@ -78,7 +78,7 @@ const initialUsers: User[] = [
   { 
     id: "7", 
     role: "Patient", 
-    email: "lisa@gmail.com", 
+    email: "lisa@entnt.in", 
     password: "patient123", 
     patientId: "p6",
     name: "Lisa Davis"
@@ -86,7 +86,7 @@ const initialUsers: User[] = [
   { 
     id: "10", 
     role: "Patient", 
-    email: "robert@gmail.com", 
+    email: "robert@entnt.in", 
     password: "patient123", 
     patientId: "p7",
     name: "Robert Miller"

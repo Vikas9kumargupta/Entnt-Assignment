@@ -29,18 +29,18 @@ const Login: React.FC = () => {
 
   const adminCredentials = [
     { role: 'Admin', name: 'Dr. Sarah Johnson', email: 'admin@entnt.in', password: 'admin123' },
-    { role: 'Admin', name: 'Dr. Rahul Gupta', email: 'dr.rahul@gmail.com', password: 'dental123' },
-    { role: 'Admin', name: 'Dr. Asif Naqvi', email: 'asifnaqvi64@gmail.com', password: 'dental123' },
+    { role: 'Admin', name: 'Dr. Rahul Gupta', email: 'dr.rahul@entnt.in', password: 'dental123' },
+    { role: 'Admin', name: 'Dr. Asif Naqvi', email: 'asifnaqvi64@entnt.in', password: 'dental123' },
   ];
 
   const patientCredentials = [
-    { role: 'Patient', name: 'Vikas Gupta', email: 'vikasgup074@gmail.com', password: 'patient123' },
-    { role: 'Patient', name: 'Jane Smith', email: 'jane@gmail.in', password: 'patient123' },
-    { role: 'Patient', name: 'Mike Johnson', email: 'mike@gmail.in', password: 'patient123' },
-    { role: 'Patient', name: 'Sarah Joseph', email: 'sarah@gmail.com', password: 'patient123' },
-    { role: 'Patient', name: 'David Brown', email: 'david@gmail.com', password: 'patient123' },
-    { role: 'Patient', name: 'Lisa Davis', email: 'lisa@gmail.com', password: 'patient123' },
-    { role: 'Patient', name: 'Robert Miller', email: 'robert@gmail.com', password: 'patient123' },
+    { role: 'Patient', name: 'Vikas Gupta', email: 'vikasgup074@entnt.in', password: 'patient123' },
+    { role: 'Patient', name: 'Jane Smith', email: 'jane@entnt.in', password: 'patient123' },
+    { role: 'Patient', name: 'Mike Johnson', email: 'mike@entnt.in', password: 'patient123' },
+    { role: 'Patient', name: 'Sarah Joseph', email: 'sarah@entnt.in', password: 'patient123' },
+    { role: 'Patient', name: 'David Brown', email: 'david@entnt.in', password: 'patient123' },
+    { role: 'Patient', name: 'Lisa Davis', email: 'lisa@entnt.in', password: 'patient123' },
+    { role: 'Patient', name: 'Robert Miller', email: 'robert@entnt.in', password: 'patient123' },
   ];
 
   return (
